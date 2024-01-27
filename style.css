@@ -17,21 +17,42 @@ h1 {
   width: 300px;
 }
 
-/* Configuração da estilização do menu - barra lateral*/
-.sidebar__navigation {
-  background-color: #121212;
-  border: radius 8px;
-  padding: 16px 0 0 16px;
-}
+/* Configuração do estilo da barra lateral */
 
-.logo {
+.sidebar__navigation {
   background: #121212;
-  display: flex;
   border-radius: 8px;
   padding: 16px 0 0 16px;
 }
 
-/**Configuração da logo spotify*/
+/* Configuração de estilo da barra lateral e da logo */
+.sidebar, .logo {
+  background: #121212;
+  display: flex;
+  border-radius: 8px;
+  padding: 16px 0 0 16px;
+} 
+
+/*Configuração da logo spotify*/
 .logo img {
   width: 80px;
+}
+
+/* Configuração de espaçamento da sidebar */
+.sidebar nav ul {
+  margin-top: 20px;
+  padding: 0 20px 10px 20px;
+}
+
+.sidebar ul li {
+  padding: 10px 0;
+}
+
+/* Configuração do texto do sidebar*/
+.sidebar nav ul li a {
+  color: #b3b3b3;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 14px;
+  font-family: "DM Sans", sans-serif;
 }
