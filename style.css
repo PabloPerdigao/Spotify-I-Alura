@@ -7,7 +7,7 @@ h1 {
   color: #fff;
 } 
 
-/* Configuração do menu - barra lateral*/
+/* Configuração da posição do menu - barra lateral*/
 .sidebar {
   position: fixed;
   top: 0 ;
@@ -17,10 +17,17 @@ h1 {
   width: 300px;
 }
 
-
+/* Configuração da estilização do menu - barra lateral*/
 .sidebar__navigation {
   background-color: #121212;
   border: radius 8px;
+  padding: 16px 0 0 16px;
+}
+
+.logo {
+  background: #121212;
+  display: flex;
+  border-radius: 8px;
   padding: 16px 0 0 16px;
 }
 
