@@ -1,5 +1,6 @@
 body{
   background-color: #000;
+  font-family: var(--font-dm-sans);
 }
 
 /* Configuração da posição do menu - barra lateral*/
@@ -163,6 +164,7 @@ body{
 .languages .languages__button{
   align-items:center;
   background-color: transparent;
+  font-family: "DM Sans", sans-serif;
   border: 1px solid;
   color: #fff;
   font-weight: bold;
