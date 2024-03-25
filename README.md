@@ -50,7 +50,7 @@ Este projeto foi desenvolvido com as seguintes linguagens, tecnologias e ferrame
 
 ## 🔖 Layout
 
-<strong>➡️😉 Você pode visualizar o projeto finalizado online através</strong> [DESSE LINK](https://www.figma.com/community/file/1256354844988182987?target=_blank).
+<strong>➡️😉 Você pode visualizar o projeto finalizado online através</strong> [DESSE LINK](https://pabloperdigao.github.io/Spotify_layout/).
 
 
 - [Acesse meu perfil .dev no Spotify](https://open.spotify.com/user/31xc3yfrf5whslpjexvrlxrc6rc4)
